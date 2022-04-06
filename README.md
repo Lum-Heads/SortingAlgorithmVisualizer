@@ -2,13 +2,6 @@
     Sorting Visualizer
 </h1>
 
-## Responsive visualizer built using React for popular algorithms
-
-<a href="https://sadanandpai.github.io/sorting-visualizer/dist/"><img src="cover.png" alt="cover" /></a>
-[See it in action](https://sadanandpai.github.io/sorting-visualizer/dist/)
-
----
-
 ### This repo is an attempt to help in learning popular sorting algorithms by visualization
 
 Helps to
@@ -41,9 +34,9 @@ Features
 
 ### Run in your local
 
-- ```git clone https://github.com/sadanandpai/sorting-visualizer.git```
-- ```npm install``` (after navigating inside the directory)
-- ```npm run dev```
+- `git clone https://github.com/Lum-Heads/SortingAlgorithmVisualizer.git`
+- `npm install` (after navigating inside the directory)
+- `npm run dev`
 
 ---
 
